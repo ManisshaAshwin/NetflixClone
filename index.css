@@ -927,7 +927,7 @@ section{
     .container6 h5{
         color:rgb(190, 190, 190);
         font-size:2vmax;
-        margin:100px 0 0 100px;
+        margin:50px 0 0 70px;
         font-weight: 80px;
     }
     
@@ -949,6 +949,6 @@ section{
     }
     
     .pageEndText{
-        margin-left:100px;git add .
+        margin-left:70px;
     }
 }
