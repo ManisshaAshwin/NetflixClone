@@ -944,7 +944,7 @@ section{
     .rows td{
         color:rgb(190, 190, 190);
         text-decoration: underline;
-        font-size: 1.5vmax;
+        font-size: 1vmax;
         height: 4vh;
     }
     
