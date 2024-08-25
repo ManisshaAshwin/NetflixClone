@@ -907,7 +907,7 @@ section{
     } */
     
     .qsContainer5{
-        width:80vw;
+        width:95vw;
         margin:auto;
         height:70px;
         background-color: rgb(65, 63, 63);
@@ -921,7 +921,7 @@ section{
     
     .qsContainer5 p{
         color:white;
-        font-size: 2.7vmax;
+        font-size: 2.4vmax;
     }
     
     .container6 h5{
@@ -938,17 +938,17 @@ section{
     
     .pageEndTable{
         width:60vw;
-        margin:10px 30px 40px 100px;
+        margin:5px 30px 40px 80px;
     }
     
     .rows td{
         color:rgb(190, 190, 190);
         text-decoration: underline;
-        font-size: 1vmax;
+        font-size: 1.5vmax;
         height: 4vh;
     }
     
     .pageEndText{
-        margin-left:100px;
+        margin-left:100px;git add .
     }
 }
